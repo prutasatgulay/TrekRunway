@@ -1,0 +1,17 @@
+.title h1{
+    text-align: center;
+}
+
+.brochure-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.brochure-images img {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    margin: 10px;
+}
+
